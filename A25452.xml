@@ -1,0 +1,366 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Animadversions upon that proclamation of September 13, 1692, entituled, For the better discovery of seditious libellers</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1693</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 33 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A25452</idno>
+            <idno type="STC">Wing A3205</idno>
+            <idno type="STC">ESTC R38496</idno>
+            <idno type="EEBO-CITATION">17513009</idno>
+            <idno type="OCLC">ocm 17513009</idno>
+            <idno type="VID">106529</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A25452)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 106529)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1626:3)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Animadversions upon that proclamation of September 13, 1692, entituled, For the better discovery of seditious libellers</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>1693]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Date of publication suggested by Wing.</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Seditious libel --  England.</term>
+               <term>Great Britain --  History --  Revolution of 1688.</term>
+               <term>Great Britain --  Politics and government --  1689-1702.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-10</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2013-10</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="treatise">
+            <pb facs="tcp:106529:1" rendition="simple:additions"/>
+            <head>Animadverſions upon that Proclamation of <hi>September 13. 1692. Entituled,</hi> For the better diſcovery of Seditious Libellers.</head>
+            <p>THE Obſervation is as true as it is common; That when any Breach or Alteration has been made upon the Antient and well Conſtituted Government of this Kingdom which doth reſide in an Uinnterrupted Hereditary and Lineal Succeſſion; This being Eſtabliſhed and Confirmed by all the Statute and Common Laws, authentick Records and Right Precedents) either by wrong Invaſion upon, and forcible Diſpoſſeſſion of it, or by ſubtle Intruſion or ſtepping in between, Hereupon the Tongues and Pens of People have been more open and enlarged than at other Times of righteous Settlement. The Reaſon whereof is ſo obvious, that there is no need to aſſign it; Becauſe here is occaſion given for it, but there is none then. For an Example hereof we need go no further back, than the Reign of <hi>Oliver Cromwell,</hi> and that eighteen Years of Confuſion and Bloodſhed which was then. What an ex<g ref="char:EOLhyphen"/>ceeding deal of Work was for the Preſs in thoſe days? When any Great and unuſual thing is done in the World, if People ſhould hold their peace, the Stones would immediately cry out (according to that Rhretorical form of Speech) importing that the moſt dull and ſilent of Mankind muſt be affected with, and talk thereof. And tho' through the Evil and Depravation of our Nature, they do more con<g ref="char:EOLhyphen"/>ſent unto, and are carried away with a corrupt and wrong Thing, eſpecially where it gets Riches and Power, and the Multitude on its ſide; Yet the World was never ſo univerſally bad, That every without one exception ſhould be led away with the Spreading, Prevailing, and contagious Error; But ſome have all along kept and preſerved themſelves in their Integrity, free and ſound from the Diſeaſe and Corrupti<g ref="char:EOLhyphen"/>on of the Times.</p>
+            <p>There have been a Remant, and a few (as this is always the Lot and Portion of the Right and bet<g ref="char:EOLhyphen"/>ter Side) in whom hath appeared outwords of Truth, and Prnciples of Righteouſneſs and Honeſty. So it will be (notwithſtanding the utmoſt Oppoſition and Perſecution) as long as God hath a Church in the World; Unleſs all Men ſhould be transformed into wild Beaſts or Devils; that is, until they come to loſe all the Seeds and Tinctures of Reaſon and Religion, and they are made up of nothing but Violence and Evil. (Here it muſt be acknowledged that Pride, Revenge, Envy, Diſcontent, and the ſeveral Ingredients of Sin and Paſſion will be apt to creep in, and alſo intermingle with the Right ſide) ſo that if there ſhould not be a word ſpoken or written; Yet as long as there is a Real and Eſſential Difference between Good and Evil, Truth and Falſhood, Right and Wrong (which is ſo far ingraſted into the Nature of Men, that it cannot be utterly rooted out) Every one that hath but common un<g ref="char:EOLhyphen"/>derſtanding would diſcern the one from the other.</p>
+            <p>It hath been the conſtant Method, that when Iniquity hath been ſet up on High, and it hath intrud<g ref="char:EOLhyphen"/>ed and Uſurpt it ſelf upon the Rightful Authority, They have alſo plai<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ered, and flouriſhed it over with Goodly words: But when on the other ſide Words of Truth do come forth, which make to ſee through, or under the Foundation thereof, and this doth it more and more, that the untempered Morter of the <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ther can no longer Palliate, or make it up again; Then the laſt Reſort is to Gag the Mouth, Tye up the Hand, and Impriſon the Body, to prevent and hinder all going forth of ſuch True and right Words: For <hi>every one that doth Evil, hateth the Light, neither cometh to the Light, leſt his Deeds ſhould bere<g ref="char:EOLhyphen"/>proved,</hi> John 3. Ver. 20. Or as it is in the Margin there, diſcovered. Here if the upright in Heart (God being on their ſide, whilſt they act and labour for him) would ſtrive againſt theſe Deviſes of the Workers of Iniquity, their Foundation would be diſcovered, and at length fall, and be conſumed. Surely their turning of things upſide down <hi>ſhall be eſteemed as Potters Clay;</hi> which, tho' they can or do faſhion to this or that purpoſe, according to their own Will; yet it may be all broken into pieces, or diſ<g ref="char:EOLhyphen"/>ſolved into Dirt.</p>
+            <p>Here it comes to paſs, <hi>That the greateſt Fool calls Fool firſt;</hi> for they do firſt throw out that Reproach of Sedition and Rebell on falſly upon others to ward off, and turn away that true imputation of both; which, as they are ſecretly and inwardly Conſcious of, ſo it may be juſtly faſtned upon themſelves. Let them call it what they will, <hi>Defence of the Parliament and Liberties of</hi> England, <hi>Preſervation of Religion,</hi> &amp;c. It was ſix Years plain down Rebellion foregoing, that brought King <hi>Charles</hi> the Firſt to the Block; And ſo notwithſtanding it hath been term.<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>Deliverance (I believe they will not find it ſo at long run:) It was plain invading this Realm by a For<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>gn Prince, bearing Arms, raiſing Tumults, (all which <hi>in Ipſiſſimis verbis,</hi> was contrary to that Oath of Allegiance and Supremacy, which his Sub<g ref="char:EOLhyphen"/>jects had before token) which cauſed our King to be Depoſed. At which juncture of Time almoſt e<g ref="char:EOLhyphen"/>very Sermon from the Pulpit, and Paper from the Preſs <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>as a falſe, Infamous, and Scandalous Libel: For as the Chief Juſtice <hi>Coke</hi> had long ſince Remarke<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hat <hi>Libelling is the fore-runner of Rebellion,</hi> ſo it did exactly prove; for, whereas the King had Emitted forth his Declaration for Liberty of Con<g ref="char:EOLhyphen"/>ſcience; <hi>That all people might worſhip God according to their ſeveral Opinion and Perſuaſions, and they might Preach all God's Word with this neceſſary Caution; Provided than there nothing ſhould be deliver<g ref="char:EOLhyphen"/>ed to alienate the Hearts of his Subjects, from Him or His Government; ſo as to make them withdraw. or caſt off their Allegiance;</hi> for to do that, or to deſpiſe and falſifie a ſolemn Oath, there is not one Sen<g ref="char:EOLhyphen"/>tence in all the Old and New Teſtament, which can be truly alledged to juſtify that: Becauſe ſuch like a thing hath been done in former Generations, and in other Countries, therefore that it was lawfully done, is a fallacious and wrong Concluſion: But our People did abuſe the favour of their King unto Evil ſurmiſings and Rebellious Practices, as if He had granted this Univerſal Liberty only to bring in Popery: But ſuppoſing that ſhould be granted (which perhaps was not ſo) for this is the moſt forcible
+<pb n="2" facs="tcp:106529:2"/>way of Reaſoning, when admitting his Objection, we can certainly confute, if not convince, and actu<g ref="char:EOLhyphen"/>ally bring over the Adverſary; Yet God, who cauſeth Light to ſhine out of Darkneſs would have Eſta<g ref="char:EOLhyphen"/>bliſhed this to them, and to their Generations for ever more upon a righteous ſure Foundation, what ever deſigns might lie hid in the Heart: All one as the Reformation was ſomewhat brought on, and fur<g ref="char:EOLhyphen"/>thered by the Luſt and Revenge of <hi>Henry</hi> the VIII. By which may be ſeen that there is no ſuch thing as Pure, Undefiled Religion among the Princes of this World: And tho now they have the ſame Liberty nevertheleſs, Yet God will judge whether it was not granted by the Political Methods of Ini<g ref="char:EOLhyphen"/>quity (which muſt do ſomewhat to oblige all Parties, and all ſides, leſt the ſeeming or called Godly ſhould reprove it, as the Univerſally Righteous will nevertheleſs) as it is now retained by the Sinful ſi<g ref="char:EOLhyphen"/>lence of the firſt Sort, and by their Conſenting with the Deeds of them. All the Churches are to know that the Almighty God could, and as he is Holy and True, ſo he would preſerve, increaſe, and add to their Numbers, <hi>if they did not overp<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſs the Deeds of the Wicked; yet they proſper.</hi> Jer. 5. Ver. 28. For they imagine that hereby they continue this their Priviledge, and therefore they have omitted. <hi>Mar.</hi> 23.23. (from whence it appears, that omiſſion of Duty is a Sin, and that Chriſt will enter into Judgment for the ſame) to ſpeak forth all God's word againſt all manner of Sin and Tranſgreſſion in all people from the greateſt of them to the leaſt of them. for ſo indeed it ought to be ſpoken forth and declared.</p>
+            <p>But ſuch is the untoward Nature of Men, who are weary of the beſt things, if they have them long, and they are deſirous of Novelty and Variety, tho' it be unlawful, That as they will do ten times more in Loans and Gifts to an unjuſt Poſſeſſor, than to a rightful King; Even ſo the Religious alſo will hide their Eyes from the breach of almoſt all the other Commandments of God, as if the whole of Religion, and what he required of Man was to provide againſt, and keep out <hi>Popery.</hi> People are kept hoodwinkt or deluded with falſe Notions, or rather they do take up with half the thing, not underſtanding it throughly and wholly. Thus it is both as to ſerious and common Matters.</p>
+            <p>Suppoſe we give an inſtance in this Iaſt; When the <hi>French</hi> were moving upon the Waters the Summer before the Date hereof, It was given out throughout all this Nation, to make the people more unanimous in Oppoſition of them, That they came to ſpoil and make a Conqueſt over this Country. They did not then come ſo near, as to ſend out their <hi>Declarations,</hi> and make their pretences known: But if they had, and declared accordingly, That they came only to reſtore the deprived King; and that they did covet and deſign no more, but barely to effect this; and they would be contented only with the Charge of the Expedition paid, with ſome moderate Gratuities to the Sould ers and Seamen, and henceforward theſe Nations ſhould abide by one another in Unity, peace and Concord: If the uſual Conſultation, Treaty and Security was had hereupon, The people of <hi>England</hi> might credit and fully rely on theſe their ſo far ſeeming, reaſonable and juſt demands, all one as they did take the <hi>P.</hi> of <hi>O</hi>'s Word to let him come in, when he had before declared, that he did not intend to make a Conqueſt over them. Indeed there is ſomewhat more to be conſidered in the diſparity of the Numbers and Power which the one hath, over what the other had; But the Word and promiſe of the Princes and Potentates of the Earth are much alike, that there is no ſure Truſt or Reliance to be given to any of them. They were wont to ſpeak in old time ſaying, <hi>Thou ſhalt ſurely ask counſel at</hi> Abel, and ſo they ended the Matter. 2 <hi>Sam.</hi> 20. <hi>Ver.</hi> 18. As we are allow'd, yea, and commanded to ſearch the Scriptures, ſo any one at his leiſure may read the four following <hi>Verſes,</hi> as they he open in the Bible. I am one of them that are pea<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eable and faithful in <hi>England.</hi> It ſeemeth hard and unequal to me, that a whole Nation ſhould be endangered to be ruined and ſwallowed up by Strangers and Foreigners for the Ambition and Contention of two Men: Whereas Right might be done in a peaceable and prudent way (without their Aid or violent Int<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rpoſure and Medling) upon the terms of univerſal Forgiveneſs, not one man excepted. But if one is ſo ſtiff as not to grant that; as I ſuppoſe he would with all his Heart be glad to be re-admitted in upon thoſe mild and equitable Conditions, which will make him both revered and loved; for it is neither Duty, nor yet Wiſdom to ſpeak or behave ones ſelf proudly in the day of diſtreſs. They are Adverſarie<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> to the King. 2 <hi>Sam.</hi> 19. <hi>Ver.</hi> 22. and hinder his Reſtauration, who dictate otherwiſe, notwithſtanding their ignorant Zeal, and vain Talk for him; And if the Offenders are afraid to truſt to this, as W<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>kedneſs and Guilt is Timerous and Suſpicious, it being what is natural and uſual, that they who have tranſgreſſee without a Cauſe ſhould be alſo f<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>arful without a Cauſe, that is, without a True Cauſe) Then let all thoſe that are indeed Criminals ſtand by themſelves; for there is no reaſon why others who as yet are not ſo, ſhould make themſelves criminal alſo in defending them. And let him come ſingly to puniſh them, whilſt all others ſtand perſectly Neuter, and diſintereſted as to that Cauſe, only in defence of their Country to ſtop the Incurſion and Spoil of strangers and Robbers. The right underſtanding and acting a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>cording to this Truth would go a great way towards the bringing and ſetling Peace again in our Borders. And though people now ſay the Righteous and Loyal party would bring the <hi>French</hi> in, Yet herein they ſay falſly, for if ever the <hi>French</hi> ſhould come in (which, tho' at preſent unlikely, and that Word according to the Divine Method in <hi>Pſal.</hi> 89. throughout, and <hi>Jer.</hi> 37. 10 ſeems to be falſified at firſt, to exerciſe the more our Faith therein nevertheleſs, Yet nothing is impoſſible with God, who knows which Side will have the worſt of the War at long run) Yet not we, but themſelves would cauſe this break<g ref="char:EOLhyphen"/>ing in of Foreigners and Strangers; For the original Cauſe, and firſt Occaſion is to be lookt back into. Who invited another to come in, when all things were quiet, before he moved upon the Waters? To diſturb quiet Things that is properly Sedition, as Rebellion is the breaking out into the open Act of Hoſtility. And then they did drive their King out to ſeek his Bread in that Neigh<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>our Country, where he ſuppoſed that he might ſooner have it; And becauſe he enought himſelf not ſafe among the Children of them, who Murthered his Father; therefore He was forced <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o take Sanctuary among Stranger. Here he ſho<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ld rather have abode quiet, and not ſought to have Recovered his Kingdom again by <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lood and Force of Arms. But yet he did, and doth ſtill betake himſelf to thoſe Methods which is uſual for Sovereign
+<pb n="3" facs="tcp:106529:2"/>Princes when they have been Diſpoſſeſſed to do in like Caſes. Which ſame Plea and Saying, tho it may ſeem a little allowable <hi>in Fore Humane,</hi> Yet it will in no wiſe excuſe or juſtifie him at the Bar of God <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>or the Blood that hath been ſpilt on this Occaſion. However they are much more inexcuſable, who firſt Rebelled againſt him, and do ſtill endeavour to keep him out with the Price of Blood, and with the loſs of ſo many thouſand <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>en's Lives, than Himſelf is, who ſeeks after this manner to be Re-inſtated again. They, are Sinners and Trangreſors on both ſides, Though his Rebellious Sub<g ref="char:EOLhyphen"/>ject<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> are the greater.</p>
+            <p>From hence came thoſe Wars and Fightings among us, So th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t after the way which they barely accuſe others of Se<g ref="char:EOLhyphen"/>dition and Rebellion, Themſelves in very deed have been proved guilty of the ſame.</p>
+            <p>In the very ſame manner it may be Anſwered, as to what they call Falſe, Infamous and Scandalous Libels: A Libel ſignifies a little Book. Here again they are befo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e hand to term it ſo in theſe 3 Epithets, which herein are true, Proper, and Oppoſite: Becavſe in what t<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ey call ſuch Libels their own Falſe, infamous and Scandalous Doings are ſpoken and treat<g ref="char:EOLhyphen"/>ed of: So that this Reproach offered by them muſt a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſo ceaſe, for it is truly turned upon themſelves; and it doth not juſtly belong to the Authors of ſuch Writings, but to themſelves the Actors of ſuch things. Wherein they have Erred, and a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e Deceived, and they do ſtill go aſide from the Way of Truth; whereby they are become a Shame and In<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>amy even to <hi>Turks,</hi> and to the other Nations, and they have made the Name of <hi>Proteſtantiſm</hi> to ſlink. <hi>Gen.</hi> 34.30. among the Super<g ref="char:EOLhyphen"/>ſtitious Inhabitants of this and other Lands, whilſt t<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ey have given occaſion to both to ſay, <hi>Tueſe are the Diſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ipl<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s of Je<g ref="char:EOLhyphen"/>ſur Christ, the Prince <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>f Peace, and they call themſelves of the Pure, Reſ<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ned Religion, who break and ſa<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ifie their O<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>s. diſ<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>nour and diſpbey their Parents, they kill and murther one another.</hi> I do hereby enter my Proteſtation againſt th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſe Deeds of ſuch Nuncupative <hi>Proteſtants.</hi> They are become a Scandal, and Rock of Offence, not ſo much to them who ca<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſ themſelves ſo, but to all Real and Univerſal Chriſtians, ſuch who have reſpect unto all the Commandments, and not keep ſome, and neglect others, as the manner of many is.</p>
+            <p>Every Libel (ſee <hi>Coke</hi>'s Reports, <hi>Le caſe de Libellis famoſis</hi>) is to the Scandal of the Governments, and to the Breach of the Peace. But when there is an Actual breach of the Peace already in this, and more eſpecially in the Neighbour Nations; which hath ſo been for theſe four Years, Thoſe Words of Truth and Soberneſs, which do exhort to fill and com<g ref="char:EOLhyphen"/>poſe theſe troubled Waves <hi>(— Pr<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſtat m<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tes componere fluctus)</hi> and which ſhew us the only good and right way, how it may be all retrieved and healed, and made up again without the farther Leſs of ſo much as one Man's Lie mo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e <hi>viz.</hi> By changing this New and wr<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ng Conſtitution into the Antient and Rightful Government; This doth in us wiſe break the Peace, but would Eſtabliſh it; Nor yet doth it widen, but it would repair the Breach: Only there it Strength and Will wanting to make it cloſe and keep together. But then indeed it is a ſcandal to the preſent Governour (for Gover<g ref="char:EOLhyphen"/>nour and Government are two diſtinct things; in that ſometimes they take upon them to Govern, who <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ave no Right, ſo to do) that themſelves ſhould not be govern'd by the Law of God: That they ſhould ſo long live, and act in the breach of ſundry of God' Commandments; whereby they are in real danger of future Condemnation, and of going away into everlaſting Puniſhment; That Q<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e would admire (unleſs they were deluded and deceived by Sathan, who holds them Captive at his Will, and it is to be <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ear'd, that after all the Warning which hath been given, they will at laſt fall into the hands of this Roaring Lion <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ho they can give ſleep to their Eyes, and ſlumber to their Eyelids day after day, and nig<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t after night, as they do, until they throughly amend their ways, and their Doings, and unti they throughly, execu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e Judgment between a Man and his Neighbour. <hi>Jer.</hi> 7. <hi>Ver</hi> 5. <hi>Leſt they ſhould Sleep the Sleep of Death and their Souls ſhould be <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>athere<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> with the Sinners and Tranſgreſſors of former Generations.</hi> By theſe Words, That ye <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hroughly exe<g ref="char:EOLhyphen"/>cute judgment between a Man and his Neighbour, is, or may be underſtood according to the Meaning and Requiring of the Spirit of God at his Day (for the H<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ly Ghoſt in the Penning and Giving forth or the Scriptures hath provided and ordained them for a Law to all Perſons, Times and Places, Generations and Countries). That they do righten (See the Marginal Reading of <hi>lſi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>. <hi>Ver.</hi> 17) Adjuſt and Determine the Matter between King <hi>James</hi> and t<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e Prince of <hi>Orange</hi> according to the inſtruct on or Wiſdom juſtice judgment and Equity. <hi>Prov.</hi> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>. <hi>Ver.</hi> 3. But until they do this, How can they have any peace in their Conſciences, unleſs they did act in the Deceivableneſs or Unrighteouſneſs, and had im<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ibed in ſtrong Delu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ions? But th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Knowledge of t<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e Truth would break this inward ſtupidity, in which ſenſe it doth break the peace within, which is the moſt tronoleſome kind of any; nevertheleſs it is better ſo broken than kept. And as the ſame Truth doth ba<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ely recite, reprove, and diſcover their ſcandalous Doings, and as it doth lay open their Fals<g ref="char:EOLhyphen"/>hood and Hypocriſy, They do thus conceive Enmity againſt, and utter Error concerning it. Whatever the<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> now do to pre<g ref="char:EOLhyphen"/>vent and hinder the goings forth of His Eternal Truth (becauſe by the publication thereof ſome few. Thoughts of their Hearts are revealed) <hi>Herein they do provoke the Lord to iealouſy. Are they ſtronger than be? Or how canth<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y help when the Dead, ſmall and great ſhall ſtand before God, That themſelves ſhall not ap<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ear alſo?</hi> And then all the Thoughts of all their Hearts will be Revealed; all the Words of every Tongue will be Declared, and all the Deeds of their paſt Life will be manifeſted and judged.</p>
+            <p>As to the Reward promiſed by the Workers of Iniquity, I have ſeveral times thought (as I have heard or read that Portion of Scripture; <hi>When thou ſaweſt a Thief, then thou conſentest with him: Pſal.</hi> 50. <hi>Ver.</hi> 18., That as there are three ſons of Thefts and Robberies, ſo they do uſe the like Methods: There is a little Degree, a middle Sine, and the great<g ref="char:EOLhyphen"/>eſt of all. The firſt Sort is, when a Pocket is pickt, or any thing taken away privily, or when two or three or half a dozen do Rob upon the High-Way. Theſe are Liberal and Bountiful to Oſlers, Tapſters and Inn-keepers, and the others will bribe it off to prevent their own Diſcovery; what they do eaſily come by, they d<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> as frankly part withal. The middl<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Size is, when a hundred or two do Rob together in a Company, as in ſome parts of <hi>Italy,</hi> the Deſarts of <hi>Arabia,</hi> and Sea Pyrates. Theſe do not fee altogether ſo much becauſe they do depend upon their Numbers, outward Strength and Force; and their Deſigns are open and Bare-faced to take violently away. But as the yrate told <hi>Alexander;</hi> The great<g ref="char:EOLhyphen"/>eſt Robbery of all is, <hi>W<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>en Kings and Gen<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rals with their Arm<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>es co ſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>oil and diſpoſſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſs whole Countries; Or when they do take a whole Kingdom or Principality away at once.</hi> Of this there are two ſorts; either open Hoſtility, which ſeems faireſt, becauſe then Others can ſtand upon their Guard and Defence: The other is by the Cloſe, Hidden and Hypocri<g ref="char:EOLhyphen"/>tical Methods of Uſurpation. Like the turnings and windings of a River, which we know not preſently whither it ends; Or like the glidings and inſinuations of a Snake or Serpent, which may ſeem ſmooth or tickle at firſt, but the end thereof is deadly. They commonly go this way to work, and ſrue themſelves in, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hen they cannot accompliſh it by the other. But in the firſt ſort of this great Violence or Robbery, They have ſome ſpecious Reaſons to Colour it over, Tho' at laſt they are forced to reſort to the <hi>French</hi> King's <hi>Mott<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> upon his great Guns; <hi>Rati<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <g ref="char:V">Ʋ</g>ltima Regum;</hi> In which thing A<g ref="char:EOLhyphen"/>nother hath exactly imitated, and is like unto him; for though they ſeem to be at ſo great Enmity and Oppoſition, yet they do both agree and concern in the ſame Violent and Unrighteous Action; as appears by that <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nſc<gap reason="illegible" resp="#KEYERS" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>on which as I have heard, was on the Cannon, that went over for the Reducing of <hi>Ireland;</hi> which was in the <hi>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>utch</hi> Language to this Signification; <hi>I have got it, and I will maintain it:</hi> Moſt oppoſite Word! an<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> exactly agreeable to ſuch a King, who is a King for that Womans Reaſon, becauſe He is ſo, and only becauſe He is in poſſeſſion of a Kingdom.</p>
+            <p>This Proclamation (which gives occaſion for theſe Remarks) in th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>Gazette</hi> is put in an oppoſite Column to that for High-way men and Robbers on purpoſe (as I ſuppoſe) to make Libellers more odious. But I do believe that God the
+<pb n="4" facs="tcp:106529:3"/>Judge of all men will rather judge themſolves (by whoſe pretended Authority it is Emitted forth) to be of this ſort, ſooner than he will pronounce whom they call Libellers to be wicked Offenders; For in the mean while they do uſe the ſame Methods with High-way men and Robbers; for as theſe Fee Inn Keepers; Oſlers and Tapſters to hold their peace, ſo do they give forth the Wages of iniquity to the ſeveral <hi>Balaams</hi> among us; That, whilſt themſelves have forſaken the R<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>g<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t way; and are gone aſtray, they may not be rebuked for their Iniquity. <hi>The Prophets wake my People Err. That bite with their Teeth, and cry Peace, and He that putteth not into their Mouth, They even prepare War againſt them:</hi> Mic 3. Ver. 5. <hi>But ſeeing they are ſtill fed, and Bread is put into their Mouths, Theſe D<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>gs are Dumb.</hi> Iſa. 56.10. as others are through fear and ſloth whoſe Bread hath been taken away. However rough or harſh this may ſeem, it is the very Paraſe of the Holy Ghoſt ſpeaking on this wiſe, not our of Invidiouſneſs or abuſiveneſs of Expreſſion, but to ſet forth the nature of this their Sin of Omiſſion, with the aggravation thereof in the ſight of God. And thus they ſtop the ſeveral Mouths, by giving a Livelihood or Preferment, which the Receivers conſent unto for to get or keep the ſame. And then again exactly after the ſame Me<g ref="char:EOLhyphen"/>thod of High-way men and Robbers, where Gifts and fair Means will nor do, There they proceed to a Piſtol or Sab, ſo do theſe to Puniſhment and Severity. One may arford to lett good Bargains, where he hath Diſpoſſeſſed the right Owner, and be very Liberal of that which is not their own, but another Man's: But he that will <hi>Judas</hi>-like do any thing againſt the Word of God, and his Righteouſneſs, Though it here covenanted for Twenty or Fifty pieces of Silver (watch per<g ref="char:EOLhyphen"/>haps the Informer may be yet baulked of, notwit<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſtanding ſuch particular directions are here ſpecified for the certain and ſpeedy Payment thereof) may alſo meet with <hi>Judas</hi> his Doom; It would be good for him, if he had never been born: It would be better for him if he had never touched or meddled with ſuch Mony, which is the reward of Iniquity; The Conſequence where of will be Perſecution and Oppreſſion, if it be not the worſt kind of direct Murder it ſelf: This ſhould make honeſt People have more care, and engage them to a yet greater Faithfulneſs; as to whom ten or a hundred times as muc<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> would not be a prevailing Temptation to commit the Sins of Treachery and Unfaithfulneſs.</p>
+            <p>Another t<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ing may be obſerved among High-Way men and Robbers; That they are commonly very Unanimous, and they do but ſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ldom fall out; for it they ſhould, then all the Gang would be in danger to be broken and ruined; This ſame is the very Reaſon, why there hath been ſuch an univerſal <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>onſent, Harmony and Agreement among the great Mul<g ref="char:EOLhyphen"/>titude of the Workers of Iniquity. There has been no ſuch Claſhing in their Parliamentary Conſultations, nor confront<g ref="char:EOLhyphen"/>ing the Head thereof as in the Reign of former Rightful Kings; for indeed if it ſhould be once ſo, This new erected <hi>Ba<g ref="char:EOLhyphen"/>bel</hi> would end Anger to fall, or at leaſt it would not go forward as now it doth: For a rightful Government like an Oak well and deeprooted doth bear Wind<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s and Storms, will ſtand amidſt, and againſt the Strivings and Diviſions of the Peo<g ref="char:EOLhyphen"/>ple; But a Conſtitution of Man's deviſing and Wiſdom is like a Reed ſhaken with the Wind, which every Puff of con<g ref="char:EOLhyphen"/>trary breath d<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>th make to ſtagger, and it many Trees of the Wood ſhould move againſt it, This would ſoon blow it quite away, or at loſt it would fall, and great would be the Fall thereof.</p>
+            <p>As Counterf<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>it Gold doth often ſhine and gliſter more than true, ſo Fiction and Falſhood doth more Ape and Imitate what is true and real, than perhaps this doth exert it ſelf forth: In like manner it is when the Wicked are joyned hand in hand (who hall not go unpuniſhed as to the future, however t<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ey eſcape now) and they have got the Government lodged in them ho it be wrong, Yet nevertheleſs they will keep their hands inure, and they will punctually, formally and continually practice the ſeveral acts of Adminiſtration thereof from time to time; for as the Life of a Law is in the Execution of it, ſo their ill-gotten Power (improperly called Authority, becauſe this Word ſuppoſes what is lawful, which theirs is not) is kept up meerly by Uſe and Exerciſe thereof. As by taking the Royal Title, Signet and Arms, and by doing the ſeveral Regal Acts, Interlining their Name; into the Publick Eſt: bliſhed Liturgy, ſo that Prayers are ſaid daily for them throughout the Realm, Co<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ferring imaginary Titles of Honour, m<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>king ſeeming Laws, and a Multiplicity of them, whereby is ſhown forth a ſecret Conſciouſneſs, as if they were not altogether ſo Valid; Appointing, <hi>Judges,</hi> and the Courts of <hi>Judiia<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ure</hi> go on, and are held in their Names: And then there muſt be Impriſonment and Puniſhment of Offenders, yea, and Executions for Treaſon, as if they were real Kings: For when an Intruder or Uſurper ſteps up, He hath his Throne baked, and cemented with Blood, whereby he doth imagine, that he makes it more ſure and faſt unto himſelf, not ſo much from the Conglutinating Nature thereof, but by the Victory, which with his vaſt Multitude, He doth get over the ſingle Oppoſers: So that in all likelihood this Proclamation will be put into a vigorous and conſtant Execu<g ref="char:EOLhyphen"/>tion; If they do not get it confirmed into what is called an Act of Parliament at this their next meeting together) There was ſome <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſſay and Endeavour towards this in that their Seſſions o <hi>Nov.</hi> 4. 1692. in a Bill which was going forwards in the Lower-Houſe, Entituled, <hi>For the better Prſervation of Their Majeſties Perſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ns and Government,</hi> which ſame Bill proved Abortive, and was rejected, or othewiſe it will be as a nine days wonder, and vaniſh off again as meer Talk and waſte Paper. But as I once heard Dr. <hi>Patrick,</hi> the now Uſurpt Biſhop of <hi>E<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y</hi> (as he was expounding the <hi>Tin Com<g ref="char:EOLhyphen"/>mandments</hi> in his then Pariſh Church at <hi>Covent-Garden</hi> (make a true Obſervation; That when Authority doth once begin to Command unlawful things, it doth thereupon grow and become weak and ridiculous. This he ſpake a tittle before the late Revolution, when there was a real Auth<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ty. So when that (which hath now the Name thereof) doth emit ſuch kind of Edicts; tho' with their Armed Men and Multitudes, and by their diligent Execution thereof (for wrong is common<g ref="char:EOLhyphen"/>ly more buſie and active than right) They will take care, that it ſhall not hereupon become weaker; Yet there will not much heed and obedience be given to it from the Hearts and Conſcience of Men; becauſe for want of Lawfulneſs both in the Impoſers, and alſo in the Matter it ſelf, It hath not much; or rather no Obligation at all upon the Heart and Conſcience.</p>
+         </div>
+         <div type="postscript">
+            <head>POSTSCRIPT.</head>
+            <p>For my pa<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t I do n<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t Vindicate all the Errors and Vnjuſt Illegal Act. of the laſt Reign, as it is commonly called and underſtood, Though I do affirm Conſtantly, That all of them put together (taking in alſo the whole and utmoſt that Malice could inv<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nt, and Falſhood Calumniate) will in no wiſe tantamount to juſtify a deprivation. There is a wide difference be<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ween Boaſting and Reallity, between Self Commendation, and the Matter as indeed it is. Herein the pre<g ref="char:EOLhyphen"/>ſent Rulers do wiſely, if they do avoid that Severity, which was the miſcarriage and overthrow of their immediate Prede<g ref="char:EOLhyphen"/>ceſſor. They do well herein for the Merciful <hi>ſhal obtain Mercy;</hi> as themſelves indeed have much need thereof from the hands of God for their Tranſgreſſion of ſo many of his Commandments. But he knows not much in the Nature of Things, who doth not alſo underſtand, That for them, whoſe Title is Precarious, and meerly beholden to the Love and good Will; It is neither Prudent nor Safe for ſuch to ex<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rciſe Cruelty; This being deſervedly odious to Mankind, as the contrary Vir<g ref="char:EOLhyphen"/>tue of <hi>Mercy</hi> is loved, and of good report: As on the one hand, <hi>It is pity that Godneſs ſhould be abuſed and trampled upon,</hi> Soun the other, <hi>We are not to be deladed with fair Words, and fine Phraſes.</hi> Among the ſeveral Writers concerning pub<g ref="char:EOLhyphen"/>li<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>k Affairs (as there hath been ſubject matter enough) it ſhould conſidered <hi>Quo Anim<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</hi> and out of what principle they do it: Whether it be Zell for, and Conſcience towards God, or vain Humour, which their own ſeveral Books and Words will ſhew forth and manifeſt. I do in no wiſe Apologize, or make a Defence for every Scribler: If any has written in<g ref="char:EOLhyphen"/>deed fal<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ly, ſcurrilouſly, and meer abuſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ively againſt the preſent Governours, the Law is open that ſuch may proceeded ag<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>inſt, and alſo by the Word and judgment of God <hi>(which requiers to ſpeak evil of no. Man, to be no Brawlers)</hi> if ſuch ſhould ſuffer, they would ſuffer as evil Doers.</p>
+            <closer>
+               <date>Finiſhed <hi>October</hi> 4. 1692,</date>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
